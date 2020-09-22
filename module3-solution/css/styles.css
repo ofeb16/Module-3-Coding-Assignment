@@ -14,12 +14,6 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
   border: 0;
 }
 
-#logo-img {
-  background: url('../images/1.png') no-repeat;
-  width: 222px;
-  height: 199px;
-  margin: 10px 15px 10px 0;
-}
 
 .navbar-brand {
   padding-top: 25px;
@@ -31,8 +25,8 @@ background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
   text-transform: uppercase;
   font-weight: bold;
   text-shadow: 1px 1px 1px #222;
-  margin-top: 0;
-  margin-bottom: 0;
+  margin-top: auto;
+  margin-bottom: auto;
   line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
