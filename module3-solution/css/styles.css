@@ -132,12 +132,4 @@ padding-bottom:10px;}
     letter-spacing: .1em;
     text-transform: uppercase;
   }
-  /* End Header */
 
-  /* Home Page */
-  .container .jumbotron {
-    margin-top: 30px;
-    padding: 0;
-  }
-
-}
