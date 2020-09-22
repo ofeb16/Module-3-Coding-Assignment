@@ -59,8 +59,8 @@ body {
 
 .chicken {
   position:absolute;
-  top:0;
-  right:0;
+  top:50%;
+  right:50%;
   border: 1px solid black;
   background-color: #F08080;
   width: auto;
@@ -74,8 +74,8 @@ body {
 
 .beef {
   position:absolute;
-  top:0;
-  right:0;
+  top:50%;
+  right:50%;
   border: 1px solid black;
   background-color: #A52A2A;
   width: auto;
@@ -89,8 +89,8 @@ body {
 
 .sushi {
   position:absolute;
-  top:0;
-  right:0;
+  top:50%;
+  right:50%;
   border: 1px solid black;
   background-color: #F5DEB3;
   color:black;
@@ -109,8 +109,8 @@ body {
   width: 100%;
   padding-right: 5px;
   padding-left: 5px;
-  margin-right: 5px;
-  margin-left: 5px;
+  margin-right: 15px;
+  margin-left: 15px;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {.col-md-12{float: left; } .col-md-12 {width: 100%;  }}
