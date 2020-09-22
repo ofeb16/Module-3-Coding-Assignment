@@ -115,8 +115,8 @@ body {
 /********** Small devices only **********/
 @media (max-width: 767px) { .col-xs-12 {float: left;} .col-xs-12 {width: 100%;} .container{
   width: 100%;
-  padding-right: 125px;
-  padding-left: 125px;
+  padding-right: 25px;
+  padding-left: 25px;
   margin-right: auto;
   margin-left: auto;}
 .navbar-brand a:hover, .navbar-brand a:focus {
