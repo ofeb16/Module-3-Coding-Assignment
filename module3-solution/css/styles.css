@@ -59,7 +59,7 @@ body {
 
 .chicken {
   position:absolute;
-  top:50%;
+  top:0%;
   right:50%;
   border: 1px solid black;
   background-color: #F08080;
@@ -74,7 +74,7 @@ body {
 
 .beef {
   position:absolute;
-  top:50%;
+  top:0%;
   right:50%;
   border: 1px solid black;
   background-color: #A52A2A;
@@ -89,7 +89,7 @@ body {
 
 .sushi {
   position:absolute;
-  top:50%;
+  top:0%;
   right:50%;
   border: 1px solid black;
   background-color: #F5DEB3;
