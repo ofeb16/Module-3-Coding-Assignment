@@ -40,9 +40,9 @@ body {
 .heading {
   font-size: 1.5em;  
   margin-top:50px;
+  text-weight:bold;
 }
 .abc {
-    position:relative;
     margin: 50px 20px 5px 20px;
     width:100%;
     height:auto;
@@ -52,16 +52,12 @@ body {
 }
 
 .chicken {
-  position:absolute;
-  top:0%;
-  right:50%;
-  border: 1px solid black;
+  
   background-color: #F08080;
   width: auto;
   height: auto;
   font-family: Helvetica;
   text-align:center;
-  padding:4px 16px 4px 16px;
   color:black;
   font-weight: bold;
 }
