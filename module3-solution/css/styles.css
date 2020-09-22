@@ -43,7 +43,6 @@ body {
   text-weight:bold;
 }
 .abc {
-    position:relative;
     margin: 50px 20px 5px 20px;
     width:100%;
     height:auto;
@@ -51,6 +50,8 @@ body {
     background:#808080;
     border: 1px solid black;   
 }
+h3 { padding: auto;}
+  
 
 
 /* Simple Responsive Framework. */
