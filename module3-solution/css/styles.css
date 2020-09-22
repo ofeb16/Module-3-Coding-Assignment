@@ -43,6 +43,7 @@ body {
   text-weight:bold;
 }
 .abc {
+    position:relative;
     margin: 50px 20px 5px 20px;
     width:100%;
     height:auto;
